@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, sou o Eduardo</h1>
+<h3 align="center">Olá, estou fazendo um curso técnico no SENAI, moro no Brasil e atualmente estou aprendendo sobre banco de dados e como desenvolver sistemas.</h3>
 
-<!--
-**eduz1nx-cd25/eduz1nx-cd25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduz1nx-cd25" alt="eduz1nx-cd25" /></a> </p>
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo **desenvolvimento de sistemas**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como entrar em contato comigo **duducosta250309@outlook.com**
+
+- ⚡ Curiosidade **Sou uma pessoa muito engraçada e focada.**
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://instagram.com/ferreir4zis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferreir4zis" height="30" width="40" /></a>
+</p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduz1nx-cd25&show_icons=true&locale=en" alt="eduz1nx-cd25" /></p>
